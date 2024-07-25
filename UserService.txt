@@ -1,2 +1,7 @@
 Get the user data....
 Upadtes are ready now..!!!
+
+
+
+
+Create a new Avator for user
